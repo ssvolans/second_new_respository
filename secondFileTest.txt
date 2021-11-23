@@ -1,1 +1,2 @@
 This another test file to test the git status command in linux.
+This edit just after uploading the test file and trying to clone and to test what happen just after it.
